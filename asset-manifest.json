@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/weather_app/static/css/main.8e787fa6.chunk.css",
-    "main.js": "/weather_app/static/js/main.bc8ce334.chunk.js",
-    "main.js.map": "/weather_app/static/js/main.bc8ce334.chunk.js.map",
-    "runtime-main.js": "/weather_app/static/js/runtime-main.719322a1.js",
-    "runtime-main.js.map": "/weather_app/static/js/runtime-main.719322a1.js.map",
-    "static/css/2.47e06e2e.chunk.css": "/weather_app/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.1c9824d7.chunk.js": "/weather_app/static/js/2.1c9824d7.chunk.js",
-    "static/js/2.1c9824d7.chunk.js.map": "/weather_app/static/js/2.1c9824d7.chunk.js.map",
-    "index.html": "/weather_app/index.html",
-    "precache-manifest.95d407739c02c8cebecea33440c38922.js": "/weather_app/precache-manifest.95d407739c02c8cebecea33440c38922.js",
-    "service-worker.js": "/weather_app/service-worker.js",
-    "static/css/2.47e06e2e.chunk.css.map": "/weather_app/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.8e787fa6.chunk.css.map": "/weather_app/static/css/main.8e787fa6.chunk.css.map",
-    "static/js/2.1c9824d7.chunk.js.LICENSE.txt": "/weather_app/static/js/2.1c9824d7.chunk.js.LICENSE.txt"
+    "main.css": "/StopWatch/static/css/main.8e787fa6.chunk.css",
+    "main.js": "/StopWatch/static/js/main.10a9ba9b.chunk.js",
+    "main.js.map": "/StopWatch/static/js/main.10a9ba9b.chunk.js.map",
+    "runtime-main.js": "/StopWatch/static/js/runtime-main.44d9d25f.js",
+    "runtime-main.js.map": "/StopWatch/static/js/runtime-main.44d9d25f.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/StopWatch/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.1c9824d7.chunk.js": "/StopWatch/static/js/2.1c9824d7.chunk.js",
+    "static/js/2.1c9824d7.chunk.js.map": "/StopWatch/static/js/2.1c9824d7.chunk.js.map",
+    "index.html": "/StopWatch/index.html",
+    "precache-manifest.30fc53a56953c4656ef0f27cca5d3ee2.js": "/StopWatch/precache-manifest.30fc53a56953c4656ef0f27cca5d3ee2.js",
+    "service-worker.js": "/StopWatch/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/StopWatch/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.8e787fa6.chunk.css.map": "/StopWatch/static/css/main.8e787fa6.chunk.css.map",
+    "static/js/2.1c9824d7.chunk.js.LICENSE.txt": "/StopWatch/static/js/2.1c9824d7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.719322a1.js",
+    "static/js/runtime-main.44d9d25f.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.1c9824d7.chunk.js",
     "static/css/main.8e787fa6.chunk.css",
-    "static/js/main.bc8ce334.chunk.js"
+    "static/js/main.10a9ba9b.chunk.js"
   ]
 }
